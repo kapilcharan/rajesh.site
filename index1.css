@@ -1,0 +1,292 @@
+body{
+    background-color:rgb(239, 220, 220);
+}
+.red {
+    color: black;
+    font-size: 25px;
+    margin: 15px;
+    position: absolute;
+    top: 20px; left: 114px;
+}
+.maximize{
+    position: absolute;
+    top: 157px;left: 120px;
+    font-size: 45px;
+    font-family: "Gill Sans", sans-serif;;
+}
+p{
+    position: absolute;
+    top: 259px;left: 120px;
+}
+.b1{
+    color: white;
+    position: relative;
+    top: 350px;left: 108px;
+    background-color: rgb(253, 7, 7);
+    font-size: 17px;
+    padding: 13px 20px;
+    border: 0px;
+    border-radius: 35px;
+    font-family: "Gill Sans", sans-serif;
+}
+img{
+    position: absolute;
+    top: 150px;left:650px ;
+    border-radius: 50%;
+}
+.ch1{
+    position: absolute;
+    top: 356px;left: 650px;
+    color: black;
+    background-color: white;
+    border-radius:22px;
+    padding: 16px;
+
+}
+.ch2{
+    position: absolute;
+    top: 207px;left: 1066px;
+    color: black;
+    background-color: white;
+    border-radius: 22px;
+    padding: 16px;
+}
+.n{
+    font-family:"Gill Sans" ;
+    font-size: 30px;
+}
+.b2{
+    position: absolute;
+top: 20px;
+left: 1039px;
+background-color: black;
+color: white;
+padding: 9px;
+border-radius: 153px;
+margin: auto;
+}
+.box1{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    top: 659px;left: 120px;
+    background-color: rgb(248, 38, 76);
+    border-radius: 12px;
+}
+.boxin{
+    position: relative;
+    top: 45px;left: 53px;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 22px;
+
+}
+.box2{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    top: 659px;left: 490px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 12px;
+}
+.box3{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    top: 659px;left: 860px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 12px;
+}
+.box4{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    top: 959px;left: 120px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 12px;
+}
+.box5{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    top: 959px;left: 490px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 12px;
+}
+.box6{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    top: 959px;left: 860px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 12px;
+}
+.imginbox2{
+    position: absolute;
+    top: -173px;left: -625px;
+}
+
+.imginbox3{
+    position: absolute;
+    top: -173px;left: -625px;
+}
+.imginbox4{
+    position: absolute;
+    top: -173px;left: -625px;
+}
+.imginbox5{
+    position: absolute;
+    top: -173px;left: -625px;
+}
+.imginbox6{
+    position: absolute;
+    top: -173px;left: -625px;
+}
+.boxin22{
+    position: relative;
+    top: 65px;
+    left: 26px;
+    font-weight: 500;
+}
+.boxin32{
+    position: relative;
+    top: 65px;
+    left: 26px;
+    font-weight: 500;
+}
+.boxin42{
+    position: relative;
+    top: 65px;
+    left: 26px;
+    font-weight: 500;
+}
+.boxin52{
+    position: relative;
+    top: 65px;
+    left: 26px;
+    font-weight: 500;
+}
+.boxin62{
+    position: relative;
+    top: 65px;
+    left: 26px;
+    font-weight: 500;
+}
+.boxin21{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    font-size: 27px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+.boxin31{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    font-size: 27px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+.boxin41{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    font-size: 27px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+.boxin51{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    font-size: 27px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+.boxin61{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    font-size: 27px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+.box2inb1{
+    position: relative;
+    top: 87px;
+    left: 25px;
+    background-color: white;
+    border: 0px;
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.box3inb1{
+    position: relative;
+    top: 87px;
+    left: 25px;
+    background-color: white;
+    border: 0px;
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.box4inb1{
+    position: relative;
+    top: 87px;
+    left: 25px;
+    background-color: white;
+    border: 0px;
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.box5inb1{
+    position: relative;
+    top: 87px;
+    left: 25px;
+    background-color: white;
+    border: 0px;
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.box6inb1{
+    position: relative;
+    top: 87px;
+    left: 25px;
+    background-color: white;
+    border: 0px;
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.end{
+    background-color: rgb(6, 6, 144);
+    top: auto;
+    position: absolute;
+    top: 1265px;
+    width: 1320px;
+    height: 75px;
+}
+.end1{
+    position: relative;
+    top: 23.5px;
+    left: 95px;
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+}
+.endb1{
+    position: relative;
+    top: -7.5px;
+    left: 1037px;
+    color: white;
+    background-color: rgb(250, 5, 209);
+    margin: 0px;
+    padding: 11px 28px;
+    border: 0px;
+    font-weight: 600;
+    border-radius: 89px;
+}
